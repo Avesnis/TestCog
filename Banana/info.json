@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Avesnis",
+    "INSTALL_MSG" : "Cog testing, Expect things to be broken",
+    "NAME" : "Banana",
+    "SHORT" : "A Short description, appears on !cog list repo",
+    "DESCRIPTION" : "Takes over the world",
+    "TAGS" : ["doomsday", "world", "boom"],
+    "REQUIREMENTS" : ["banana", "apple"],
+    "HIDDEN" : false
+}
